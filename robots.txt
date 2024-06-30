@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ristergen.github.io/sitemap
+Sitemap: https://ristergen.github.io/app/sitemap
+Sitemap: https://ristergen.github.io/assets/sitemap
+Sitemap: https://ristergen.github.io/css/sitemap
+Sitemap: https://ristergen.github.io/includes/sitemap
+Sitemap: https://ristergen.github.io/item/sitemap
+Sitemap: https://ristergen.github.io/src/sitemap
